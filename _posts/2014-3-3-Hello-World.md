@@ -1,15 +1,41 @@
 ---
 layout: post
-title: You're up and running!
-published: true
+title: Quantitative Finance in combination with Fundamentals
+published: false
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## Einführung
 
 
+## Litaratur overview
 
-sss
+## Wirtschaftliche ENtwicklungen
+### Funadmental analysis
+
+## Quantitative Methoden
+
+Time Series analysis, ML (Clustering of fundamental data for choosing the best companys) and RNN Models (Predicting a possible 
+
+## Portfolio 
+
+### Optimization
+
+## Trading Strategy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
