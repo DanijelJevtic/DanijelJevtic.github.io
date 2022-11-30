@@ -3,24 +3,42 @@ layout: post
 title: Quantitative Finance in combination with Fundamentals
 published: false
 ---
-
 ## Einführung
+
 
 
 ## Litaratur overview
 
-## Wirtschaftliche ENtwicklungen
-### Funadmental analysis
+## Wirtschaftliche Entwicklungen
+
+Makroökonomie
+
+
+### Funadmentals 
+
+Download von den Fundamentals und berechnunge
+
+### Financial Indicators
+
 
 ## Quantitative Methoden
 
-Time Series analysis, ML (Clustering of fundamental data for choosing the best companys) and RNN Models (Predicting a possible 
+Time Series analysis, ML (Clustering of fundamental data for choosing the best companys) and RNN Models (Predicting a possible outcome)
 
-## Portfolio 
+## Construct a Portfolio
 
 ### Optimization
 
 ## Trading Strategy
+
+RNN Models (Predicting a possible outcome)
+
+## Performance Analysis
+
+## Conclusion
+
+
+
 
 
 
