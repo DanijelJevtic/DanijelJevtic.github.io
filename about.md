@@ -1,12 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 published: true
 ---
-
-
-### Some Informations
 
 Hello and welcome to my blog! My name is Danijel Jevtic, and I am a data scientist and finance enthusiast. I graduated with a Master of Science in Banking and Finance, majoring in Capital Markets and Data Science. Prior to that, I completed a Bachelor of Science in Economic Engineering, majoring in Financial Mathematics.
 
