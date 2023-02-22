@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quantitative Finance in combination with Fundamentals
+title: 'Quantitative Finance '
 published: false
 ---
 ## Einführung
@@ -36,24 +36,3 @@ RNN Models (Predicting a possible outcome)
 ## Performance Analysis
 
 ## Conclusion
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
