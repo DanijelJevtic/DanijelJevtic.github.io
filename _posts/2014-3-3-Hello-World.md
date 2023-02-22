@@ -3,7 +3,7 @@ layout: post
 title: >-
   Unleashing the Power of Random Forest for Bitcoin Trading: A Quantitative
   Approach
-published: false
+published: true
 ---
 ## Introduction
 
@@ -45,4 +45,3 @@ RNN Models (Predicting a possible outcome)
 
 ## Litaratur overview
 [1] https://bitcoin.org/bitcoin.pdf
-
