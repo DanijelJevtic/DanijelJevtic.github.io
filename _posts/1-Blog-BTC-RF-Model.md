@@ -9,7 +9,7 @@ Welcome to my blog, where I explore the exciting intersection of quantitative fi
 
 Bitcoin is a decentralized digital currency that was created in 2009 by an unknown person or group using the pseudonym Satoshi Nakamoto. Unlike traditional currencies, which are controlled by central authorities such as governments or banks, Bitcoin operates on a decentralized network of computers that use cryptography to secure and verify transactions. This makes Bitcoin a "peer-to-peer" currency that allows users to send and receive payments without the need for intermediaries.
 
-The trading market for Bitcoin has grown significantly over the past few years, with more and more investors and traders entering the market. Bitcoin is now traded on a number of exchanges, with the largest and most popular being Binance, Coinbase, and Kraken. The market price of Bitcoin is determined by supply and demand, and can be highly volatile due to a number of factors, including changes in regulatory environments, news events, and the actions of large investors.[1]
+The trading market for Bitcoin has grown significantly over the past few years, with more and more investors and traders entering the market. Bitcoin is now traded on a number of exchanges, with the largest and most popular being Binance, Coinbase, and Kraken. The market price of Bitcoin is determined by supply and demand, and can be highly volatile due to a number of factors, including changes in regulatory environments, news events, and the actions of large investors. 1
 
 
 ### Why use random forest for Bitcoin trading?
@@ -22,7 +22,7 @@ Another advantage of random forest is its ability to capture non-linear relation
 
 Furthermore, random forest is known for its robustness to outliers and noise in the data. In the context of Bitcoin trading, this is particularly important as the market can be highly volatile and subject to sudden and unexpected price movements. By using random forest, the model can be more resilient to these unexpected events, leading to more consistent and reliable trading decisions.
 
-Overall, random forest can be an effective tool for Bitcoin trading because of its ability to handle large and complex datasets, model non-linear relationships between variables, and robustness to noise and outliers in the data. By using this machine learning algorithm, traders can potentially improve their trading performance and increase their profits. [1-4]
+Overall, random forest can be an effective tool for Bitcoin trading because of its ability to handle large and complex datasets, model non-linear relationships between variables, and robustness to noise and outliers in the data. By using this machine learning algorithm, traders can potentially improve their trading performance and increase their profits. 2-4
 
 ## Data collection and preparation
 
@@ -65,7 +65,7 @@ In order to build an effective Bitcoin trading model using Random Forest, it's c
 
 
 ## References
-[1] https://bitcoin.org/bitcoin.pdf
-[2] Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5-32.
-[3] Dey, D. K., & Rajarshi, M. B. (2019). Forecasting stock price using a hybrid model of random forest and     artificial neural network. Journal of Big Data, 6(1), 14.
-[4] Guresen, E., Kayakutlu, G., & Daim, T. U. (2011). Using artificial neural network models in stock market     index prediction. Expert Systems with Applications, 38(8), 10389-10397.
+1 https://bitcoin.org/bitcoin.pdf
+2 Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5-32.
+3 Dey, D. K., & Rajarshi, M. B. (2019). Forecasting stock price using a hybrid model of random forest and     artificial neural network. Journal of Big Data, 6(1), 14.
+4 Guresen, E., Kayakutlu, G., & Daim, T. U. (2011). Using artificial neural network models in stock market     index prediction. Expert Systems with Applications, 38(8), 10389-10397.
